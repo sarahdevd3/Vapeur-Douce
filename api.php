@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="style.css" rel="stylesheet">
-    <title>Document</title>
+    <title>Vapeurs Douce</title>
 </head>
 <header><img class="img"
      src="https://cdn.pixabay.com/photo/2020/04/23/14/06/dim-sum-5082653__340.jpg"><img class="img2"
